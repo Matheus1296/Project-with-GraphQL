@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "mongoose": "^5.6.13"
+  }
 }
